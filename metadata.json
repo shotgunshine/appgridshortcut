@@ -1,0 +1,10 @@
+{
+  "name": "App Grid Shortcut",
+  "description": "Right click on the workspaces indicator shows the applications grid",
+  "uuid": "appgridshortcut@shotgunshine",
+  "shell-version": [
+    "46"
+  ],
+  "version": 1,
+  "url": "https://github.com/shotgunshine/appgridshortcut"
+}
